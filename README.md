@@ -1,3 +1,10 @@
+## 👩‍💻 About Me
+I’m **Layan Alghamdi**, a Computer Science with a passion for AI, data analysis, and human-centered solutions. I work on machine learning projects,  enjoy building clean data visualizations and usable interfaces, and love learning new tools to turn ideas into impact.
+
+- 🎓 Currently pursuing a Master's in Computer Science  
+- 🔬 Research interest: medical AI, EEG analysis, and signal processing  
+- 💡 I enjoy turning research into reproducible projects and readable reports
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/layan-alghamdi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Layan.omar.alghamdi@gmail.com) 
